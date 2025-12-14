@@ -1,0 +1,4 @@
+opencv-python
+numpy
+gradio
+git+https://github.com/elonen/spritesheet-cleanup.git
